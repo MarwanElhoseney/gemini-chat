@@ -76,19 +76,19 @@ https://rad-gelato-eb2106.netlify.app/
 
 ## 🎬 Scenario 1: Basic Auto-Scroll :
 
-https://github.com/user-attachments/assets/1a14043f-3818-46cc-8252-24c2f55a1809
+https://github.com/user-attachments/assets/72ea766e-c099-428c-9525-235cffb00cc9
 
 # 🎬 Scenario 2: Pause on Manual Scroll :
 
-https://github.com/user-attachments/assets/3b040f6b-3317-4670-b1bc-bd39b8b7df2c
+https://github.com/user-attachments/assets/3cd66f76-0add-4fcf-b6b5-4b1193ccbb53
 
 # 🎬 Scenario 3: Send While Scrolled Up :
 
-https://github.com/user-attachments/assets/b6fad2ed-bd0c-400a-8d34-1804eca6e048
+https://github.com/user-attachments/assets/69796da2-b26e-4a8c-a929-ce5359a15ba2
 
 # 🎬 Scenario 4: Resume Auto-Scroll :
 
-https://github.com/user-attachments/assets/4deb9b68-216d-4f94-8dcb-eae6536b8c4c
+https://github.com/user-attachments/assets/2d66c8be-47db-42ca-9672-3b33b5454f3a
 
 ## 🛠️ Tech Stack
 
